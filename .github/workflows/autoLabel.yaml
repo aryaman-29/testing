@@ -1,3 +1,4 @@
+
 name: Labeling new issue
 on:
   issues:
